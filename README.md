@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![Rafael Maneschy](https://user-images.githubusercontent.com/66421443/122614556-4306ff00-d05d-11eb-87ef-4a8b789bd77b.png)
+
 **rafamaneschy/rafamaneschy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
