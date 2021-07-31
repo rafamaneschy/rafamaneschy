@@ -16,7 +16,6 @@
 <img align="center" alt="rafael-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 <a href="mailto:rafamaneschy@gmail.com" target="blank">
 <img align="center" alt="rafael-gmail" height="30" width="40" src="https://image.flaticon.com/icons/png/512/281/281769.png" style="max-width:100%;">
-<a href="https://wa.me/message/MFN7WKJTGTKMD1" target="blank">
-<img align="center" alt="rafael-whatsapp" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width:100%;">
+
  
 
