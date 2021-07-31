@@ -1,10 +1,6 @@
 ### Hi there 👋
 ## I'm Rafael Maneschy
 
-- Atividade atual: Participo do Desenvolvimento de software, desde o planejamento, concepção, análise, construção e entrega da solução, focado na linguagem Java, tudo com supervisão de um desenvolvedor Senior.
-- Habilidades: Desenvolvimento de aplicações web na plataforma Java utilizando principalmente os módulos do framework Spring com banco de dados Mysql e Sql Server.
-- Iniciando estudos : DevOps usando Junit, Jenkins, Docker e kubernetes.
-
 ## Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="70" height="70" style="max-width:100%;"></img>
